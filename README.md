@@ -78,6 +78,8 @@ The namespace contains the following:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`abs( x[, options] )`][@stdlib/math/array/special/abs]</span><span class="delimiter">: </span><span class="description">compute the absolute value for each element in an input array.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -188,6 +190,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-array-special/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/math/array/special/abs]: https://github.com/stdlib-js/math-array-special-abs
 
 <!-- </toc-links> -->
 
