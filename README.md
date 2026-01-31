@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { abs } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@esm/index.mjs';
+import { abs } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@v0.1.0-esm/index.mjs';
 ```
 
 #### ns
@@ -88,7 +88,7 @@ The namespace contains the following:
 <body>
 <script type="module">
 
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special@v0.1.0-esm/index.mjs';
 
 // Create an input array:
 var x = [ -1.0, 2.0, -3.0, 4.0 ];
