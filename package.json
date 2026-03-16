@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-array-special-abs": "^0.1.0",
+    "@stdlib/math-array-special-abs": "^0.1.1",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
