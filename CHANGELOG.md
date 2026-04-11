@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c625294`](https://github.com/stdlib-js/stdlib/commit/c62529438c8dbed914895384c48a0fb27edbf956) - **bench:** refactor to use string interpolation in `math/array/special/abs` [(#11091)](https://github.com/stdlib-js/stdlib/pull/11091) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
